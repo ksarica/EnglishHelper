@@ -756,7 +756,7 @@ namespace TheBigProject
                 {
                     dosya = openFileDialog1.OpenFile();
                     string dosyaAdi = openFileDialog1.FileName;
-                    string dosyaMetni = File.ReadAllText(dosyaAdi, Encoding.GetEncoding("iso-8859-9"));
+                    string dosyaMetni = File.ReadAllText(dosyaAdi, Encoding.GetEncoding("UTF-8"));
                     rchVeri.Text = dosyaMetni;
                 }
                 catch (Exception exception)

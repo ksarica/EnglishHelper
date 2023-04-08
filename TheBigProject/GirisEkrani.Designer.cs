@@ -166,7 +166,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::TheBigProject.Properties.Resources.english;
+            //this.pictureBox4.Image = global::TheBigProject.Properties.Resources.english;
             this.pictureBox4.Location = new System.Drawing.Point(19, 10);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox4.Name = "pictureBox4";
@@ -177,7 +177,7 @@
             // 
             // pictureTranslate
             // 
-            this.pictureTranslate.Image = global::TheBigProject.Properties.Resources.memorize__1_;
+            //this.pictureTranslate.Image = global::TheBigProject.Properties.Resources.memorize__1_;
             this.pictureTranslate.Location = new System.Drawing.Point(9, 235);
             this.pictureTranslate.Margin = new System.Windows.Forms.Padding(2);
             this.pictureTranslate.Name = "pictureTranslate";
@@ -188,7 +188,7 @@
             // 
             // pictureSql
             // 
-            this.pictureSql.Image = global::TheBigProject.Properties.Resources.database__1_;
+            //this.pictureSql.Image = global::TheBigProject.Properties.Resources.database__1_;
             this.pictureSql.Location = new System.Drawing.Point(9, 187);
             this.pictureSql.Margin = new System.Windows.Forms.Padding(2);
             this.pictureSql.Name = "pictureSql";
@@ -199,7 +199,7 @@
             // 
             // pictureAnaliz
             // 
-            this.pictureAnaliz.Image = global::TheBigProject.Properties.Resources.data__1_;
+            //this.pictureAnaliz.Image = global::TheBigProject.Properties.Resources.data__1_;
             this.pictureAnaliz.Location = new System.Drawing.Point(9, 136);
             this.pictureAnaliz.Margin = new System.Windows.Forms.Padding(2);
             this.pictureAnaliz.Name = "pictureAnaliz";
@@ -210,7 +210,7 @@
             // 
             // pictureAnaSayfa
             // 
-            this.pictureAnaSayfa.Image = global::TheBigProject.Properties.Resources.house;
+            //this.pictureAnaSayfa.Image = global::TheBigProject.Properties.Resources.house;
             this.pictureAnaSayfa.Location = new System.Drawing.Point(9, 85);
             this.pictureAnaSayfa.Margin = new System.Windows.Forms.Padding(2);
             this.pictureAnaSayfa.Name = "pictureAnaSayfa";

@@ -256,7 +256,7 @@
             this.btnYenile.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnYenile.Font = new System.Drawing.Font("Franklin Gothic Medium", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnYenile.ForeColor = System.Drawing.Color.Black;
-            this.btnYenile.Image = global::TheBigProject.Properties.Resources.reload;
+            //this.btnYenile.Image = global::TheBigProject.Properties.Resources.reload;
             this.btnYenile.Location = new System.Drawing.Point(787, 143);
             this.btnYenile.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnYenile.Name = "btnYenile";
@@ -274,7 +274,7 @@
             this.btnGeri.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGeri.Font = new System.Drawing.Font("Franklin Gothic Medium", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnGeri.ForeColor = System.Drawing.Color.Black;
-            this.btnGeri.Image = global::TheBigProject.Properties.Resources.left_arrow;
+            //this.btnGeri.Image = global::TheBigProject.Properties.Resources.left_arrow;
             this.btnGeri.Location = new System.Drawing.Point(667, 143);
             this.btnGeri.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnGeri.Name = "btnGeri";
@@ -292,7 +292,7 @@
             this.btnIleri.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIleri.Font = new System.Drawing.Font("Franklin Gothic Medium", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnIleri.ForeColor = System.Drawing.Color.Black;
-            this.btnIleri.Image = global::TheBigProject.Properties.Resources.skip_track;
+            //this.btnIleri.Image = global::TheBigProject.Properties.Resources.skip_track;
             this.btnIleri.Location = new System.Drawing.Point(727, 143);
             this.btnIleri.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnIleri.Name = "btnIleri";
